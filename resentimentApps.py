@@ -39,7 +39,7 @@ import pandas as pd
 data = pd.read_json("data/3_class_labeled_tweet.json", lines=True)
 print(data.shape)
 
-for i in range(0,121):
+for i in range(22,121):
     bawah = i*1000
     atas = (i+1)*1000
 
