@@ -2,7 +2,7 @@ import MySQLdb
 
 hostname = "localhost"
 username = "root"
-password = "password"
+password = "labkdd123"
 db_name  = "prayuga"
 
 # Open database connection
